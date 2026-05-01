@@ -11,22 +11,6 @@ The database contains an `employee` table with sample employee records from diff
 It demonstrates how to perform common SQL operations like data insertion, retrieval, filtering, sorting, grouping, and aggregation.
 
 ---
-
-## 🧱 Database Structure
-
-### Table: employee
-
-| Column      | Data Type    | Description               |
-|------------|--------------|---------------------------|
-| EmpId       | INT (PK)     | Unique employee ID        |
-| FirstName   | VARCHAR(50)  | Employee first name       |
-| LastName    | VARCHAR(50)  | Employee last name        |
-| Department  | VARCHAR(50)  | Department name           |
-| Salary      | INT          | Employee salary           |
-| HireDate    | DATE         | Date of joining           |
-
----
-
 ## 🛠️ SQL Concepts Used
 
 - CREATE DATABASE
